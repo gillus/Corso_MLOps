@@ -5,3 +5,4 @@ pandas
 mlflow
 fastapi
 skl2onnx
+xgboost
